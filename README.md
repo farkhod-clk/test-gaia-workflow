@@ -1,2 +1,4 @@
-# test-gaia-workflow
-TEST: public test repo 
+# test-gaia-ci
+
+> [!NOTE]
+> A minimal public reproduction of the Dependabot changelog workflow
